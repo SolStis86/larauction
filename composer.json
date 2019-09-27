@@ -1,0 +1,16 @@
+{
+    "name": "solstis86/larauction",
+    "description": "Auction tools and framework for Laravel",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^8.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SolStis86",
+            "email": "james@mvdigital.co"
+        }
+    ],
+    "require": {}
+}
